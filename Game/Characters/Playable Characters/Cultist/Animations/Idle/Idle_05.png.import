@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/Idle_05.png-5a4c6148abc1d27c8ec8ace811b198fa.stex"
+
+[deps]
+
+source_file="res://Characters/Playable Characters/Cultist/Animations/Idle/Idle_05.png"
+source_md5="f3c59f7ae5fa9e98d22d222930f4a0eb"
+
+dest_files=[ "res://.import/Idle_05.png-5a4c6148abc1d27c8ec8ace811b198fa.stex" ]
+dest_md5="13e9ac926f5c17719a1922761f4c66be"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

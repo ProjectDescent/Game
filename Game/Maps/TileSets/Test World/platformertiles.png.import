@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/platformertiles.png-1d37aa95db3f4aff54c1c30d5e1cba34.stex"
+
+[deps]
+
+source_file="res://Maps/TileSets/Test World/platformertiles.png"
+source_md5="5c2b12e9b10c78dd67b2431e8808d78a"
+
+dest_files=[ "res://.import/platformertiles.png-1d37aa95db3f4aff54c1c30d5e1cba34.stex" ]
+dest_md5="43e60f1cb45664af52154f4947513f10"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0
