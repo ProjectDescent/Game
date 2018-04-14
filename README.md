@@ -12,13 +12,10 @@ Test World
 - Double click on TestWorld.tscn
 - Press Command+R (on macOS), Cntrl+R (I think) on Windows
 
-# How to Commit to Repo
-- We'll talk later, its a lot
-
 # File Sharing for Assets
 - Setup Dropbox Account
 
 # Update Project
 - If cloned, delete and reclone
 - If downloaded, delete and redownload
-- We'll talk later, its a lot
+- We'll talk later, its a lot. Start here: https://github.com/ProjectDescent/Game/wiki/Getting-Started
