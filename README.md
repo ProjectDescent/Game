@@ -5,12 +5,17 @@ Tentacle Cultist
 Test World
 ![](https://github.com/ProjectDescent/Game/blob/master/Game/Screenshots/Untitled.jpeg)
 
-# How to Play
+# How to Install/Run
 - Clone project or download Zip
 - Open Godot and open project from cloned/downloaded folder
 - Navigate in Godot On left side to Maps -> Tilesets -> Test World
 - Double click on TestWorld.tscn
 - Press Command+R (on macOS), Cntrl+R (I think) on Windows
+
+# Controls
+- Left and Right arrows for lateral movement
+- Spacebar to run
+- Up arrow to Jump/Climb
 
 # File Sharing for Assets
 - Setup Dropbox Account
